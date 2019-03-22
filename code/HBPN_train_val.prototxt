@@ -5,7 +5,7 @@ layer {
   top: "data"
   top: "label"
   hdf5_data_param {
-    source: "Train/train.txt"
+    source: "code/train.txt"
     batch_size: 2
     shuffle: true
   }
@@ -18,7 +18,7 @@ layer {
   top: "data"
   top: "label"
   hdf5_data_param {
-    source: "Train/test.txt"
+    source: "code/test.txt"
     batch_size: 2
   }
   include: { phase: TEST }
