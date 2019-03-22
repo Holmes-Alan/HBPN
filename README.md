@@ -33,8 +33,8 @@ Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files bas
     
        https://competitions.codalab.org/competitions/21439#participate
    
-### b. Run patch_collection.m in MATLAB to generate training/testing files and put them in train/test folder
-   
+### b. Generate training/testing files 
+       Run patch_collection.m in MATLAB folder to generate training/testing files and put them in train/test folder
 ### c. Start training on Caffe
    
 ```sh
