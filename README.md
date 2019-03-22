@@ -25,17 +25,17 @@ The complete architecture is shown as follows,
 # Reimplementation
 1. Testing
 ---------------------------------------
-    run `HBPN_main.ipynb` on Jupyter Notebook. Modify the directories of files based on your working environment.
+    Run HBPN_main.ipynb on Jupyter Notebook. Modify the directories of files based on your working environment.
 
 2. Training
 ---------------------------
-   a. download the training images from NTIRE2019 Real Super-Resolution Challenge
+   a. Download the training images from NTIRE2019 Real Super-Resolution Challenge
     
        https://competitions.codalab.org/competitions/21439#participate
    
    b. Run patch_collection.m in MATLAB to generate training/testing files and put them in train/test folder
    
-   c. start training on Caffe
+   c. Start training on Caffe
    
       caffe train -solver HBPN_solver.protxt -GPU=0,1 2>&1 | tee -a HBPN.log
       
