@@ -18,6 +18,8 @@ For proposed HBPN model, we claim the following points:
     MATLAB 6.0 and above
 
 # Complete Architecture
+The complete architecture is shown as follows,
+
 ![structure](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/structure.png)
 
 # Reimplementation
