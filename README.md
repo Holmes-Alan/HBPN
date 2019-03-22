@@ -45,4 +45,4 @@ The complete architecture is shown as follows,
 
 Visual Comparison
 
-![visual compare](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/picture.png)
+![visual compare](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/picture.png){:height="50%" width="50%"}
