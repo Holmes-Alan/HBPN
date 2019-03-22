@@ -33,7 +33,7 @@ For proposed HBPN model, we claim the following points:
    b. Run patch_collection.m in MATLAB to generate training/testing files and put them in train/test folder
    
    c. start training on Caffe
-   ---------------------------
+   
       caffe train -solver HBPN_solver.protxt -GPU=0,1 2>&1 | tee -a HBPN.log
       
 ---------------------------
