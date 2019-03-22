@@ -34,7 +34,8 @@ Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files bas
        https://competitions.codalab.org/competitions/21439#participate
    
 ### b. Generate training/testing files 
-       Run patch_collection.m in MATLAB folder to generate training/testing files and put them in train/test folder
+       Find data generation code in Matlab and run patch_collection.m to generate training/testing HDF5 files and put them in Data folder.  
+       Find train.txt and test.txt in code folder and change the directories of generated HDF5 files.
 ### c. Start training on Caffe
    
 ```sh
