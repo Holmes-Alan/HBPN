@@ -22,7 +22,7 @@ The complete architecture is shown as follows,
 
 ![structure](/figure/structure.png)
 
-# Reimplementation
+# Implementation
 ## 1. Testing
 ---------------------------------------
 Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
@@ -35,7 +35,7 @@ Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files bas
    
 ### b. Generate training/testing files 
 Find data generation code in `Matlab` and run **patch_collection.m** to generate training/testing HDF5 files and put them in `Data` folder.  
-Find train.txt and test.txt in `code` folder and change the directories of generated HDF5 files.
+Find `train.txt` and `test.txt` in `code` folder and change the directories of generated HDF5 files.
 ### c. Start training on Caffe
    
 ```sh
