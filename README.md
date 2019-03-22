@@ -18,6 +18,7 @@ For proposed HBPN model, we claim the following points:
     MATLAB 6.0 and above
 
 # Complete Architecture
+![structure](https://github.com/Holmes-Alan/Face-SR/blob/master/results/VQ_Compare.png)
 
 # Reimplementation
 1. Testing
