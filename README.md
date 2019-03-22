@@ -25,7 +25,7 @@ The complete architecture is shown as follows,
 # Reimplementation
 1. Testing
 ---------------------------------------
-    run HBPN_main.ipynb on Jupyter Notebook. Modify the directories of files based on your working environment.
+    run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
 
 2. Training
 ---------------------------
@@ -33,7 +33,7 @@ The complete architecture is shown as follows,
     
        https://competitions.codalab.org/competitions/21439#participate
    
-   b. Run patch_collection.m in MATLAB to generate training/testing files and put them in train/test folder
+   b. Run **patch_collection.m** in MATLAB to generate training/testing files and put them in train/test folder
    
    c. start training on Caffe
    
