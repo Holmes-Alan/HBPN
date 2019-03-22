@@ -20,7 +20,7 @@ For proposed HBPN model, we claim the following points:
 # Complete Architecture
 The complete architecture is shown as follows,
 
-![structure](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/structure.png)
+![structure](/figure/structure.png)
 
 # Reimplementation
 1. Testing
@@ -45,4 +45,4 @@ The complete architecture is shown as follows,
 
 Visual Comparison
 
-![visual compare](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/picture.png)
+![visual compare](/figure/picture.png)
