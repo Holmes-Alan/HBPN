@@ -45,4 +45,4 @@ The complete architecture is shown as follows,
 
 Visual Comparison
 
-![Visual Comparison](https://github.com/Holmes-Alan/Face-SR/blob/master/results/VQ_Compare.png)
+![Visual Comparison](https://github.com/Holmes-Alan/Hierarchical-Back-Projection-Network-for-image-SR/tree/master/figure/picture.png)
