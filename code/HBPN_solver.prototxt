@@ -1,0 +1,22 @@
+# The train/test net protocol buffer definition
+net: "code/HBPN_train_val.prototxt"
+iter_size: 8 # 32 after 200000 iteration
+test_iter: 2 
+test_interval: 5000
+# The base learning rate, momentum and the weight decay of the network.
+type: "Adam"
+base_lr: 0.0001
+momentum: 0.9
+weight_decay: 0.00001
+# The learning rate policy
+lr_policy: "fixed"
+# Display every 100 iterations
+display: 500
+# The maximum number of iterations
+max_iter: 500000
+# snapshot intermediate results
+snapshot: 1000
+snapshot_prefix: "Model/Train"
+snapshot_after_train: true
+# solver mode: CPU or GPU
+solver_mode: GPU
