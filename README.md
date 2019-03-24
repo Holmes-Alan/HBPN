@@ -37,11 +37,22 @@ Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files bas
 Find data generation code in `Matlab` and run **patch_collection.m** to generate training/testing HDF5 files and put them in `Data` folder.  
 Find `train.txt` and `test.txt` in `code` folder and change the directories of generated HDF5 files.
 ### c. Start training on Caffe
-   
+For user who already has installed Caffe, simply just run the following code:
 ```sh
 $ caffe train -solver HBPN_solver.protxt -GPU=0,1 2>&1 | tee -a HBPN.log
 ```
-      
+
+You can also use docker to install Caffe to run the code:
+```sh
+$ docker pull bvlc/caffe:gpu
+```
+```
+$ nvidia-docker run -it --name [container_name] -p 8888:8888 -v ~/Data:/Data [image_name]
+```
+For testing, to call Jupyter for running:
+```
+$ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root &
+```
 ---------------------------
   
 # Experimental results
