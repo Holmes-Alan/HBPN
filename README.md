@@ -25,24 +25,24 @@ The complete architecture is shown as follows,
 # Implementation
 ## 1. Testing
 ---------------------------------------
-### a.Download trained HBPN model from the following link:
+### s1. Download trained HBPN model from the following link:
 https://drive.google.com/open?id=1AeUiztLk0mrY8VwRtr4BVfnshNIM20xa
 
-### b. Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
+### s2. Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
 
 Testing images on NTIRE2019 Real Super-Resolution Challenge can be downloaded from the following link:
 https://drive.google.com/open?id=18HNlBr7ykcpuW7q2wEJztsvEx4M8EYhe
 
 ## 2. Training
 ---------------------------
-### a. Download the training images from NTIRE2019 Real Super-Resolution Challenge
+### s1. Download the training images from NTIRE2019 Real Super-Resolution Challenge
     
        https://competitions.codalab.org/competitions/21439#participate
    
-### b. Generate training/testing files 
+### s2. Generate training/testing files 
 Find data generation code in `Matlab` and run **patch_collection.m** to generate training/testing HDF5 files and put them in `Data` folder.  
 Find `train.txt` and `test.txt` in `code` folder and change the directories of generated HDF5 files.
-### c. Start training on Caffe
+### s3. Start training on Caffe
 For user who already has installed Caffe, simply just run the following code:
 ```sh
 $ caffe train -solver HBPN_solver.protxt -GPU=0,1 2>&1 | tee -a HBPN.log
