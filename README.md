@@ -25,7 +25,13 @@ The complete architecture is shown as follows,
 # Implementation
 ## 1. Testing
 ---------------------------------------
-Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
+### a.Download trained HBPN model from the following link:
+https://drive.google.com/open?id=1AeUiztLk0mrY8VwRtr4BVfnshNIM20xa
+
+### b. Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
+
+Testing images on NTIRE2019 Real Super-Resolution Challenge can be downloaded from the following link:
+https://drive.google.com/open?id=18HNlBr7ykcpuW7q2wEJztsvEx4M8EYhe
 
 ## 2. Training
 ---------------------------
