@@ -2,7 +2,7 @@ name: "HBPN"
 input: "data"
 input_dim: 1
 input_dim: 3
-input_dim: 480
+input_dim: 480 #Set5: 192, Set14: 240, BSD100: 320, Urban100 & Manga109: 400
 input_dim: 480
 
 ######################### Data process #########################
