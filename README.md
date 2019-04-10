@@ -78,9 +78,9 @@ All the testing results on Set5, Set14, BSD100, Urban100 and Manga109 can be dow
 
 https://drive.google.com/open?id=1esG6op8BePCEYsL43Fx8uXo4kmZGElbX
 
-Visual Comparison
+## Visual Comparison
 
 ![visual compare](/figure/picture.png)
 
-Quantitative Comparison
+## Quantitative Comparison
 ![quantitative compare](/figure/table.png)
