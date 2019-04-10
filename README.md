@@ -1,4 +1,9 @@
 # Hierarchical-Back-Projection-Network-for-image-SR
+
+By Zhi-Song Liu, Li-Wen Wang, Chu-Tak Li and Wan-Chi Siu
+
+This repo only provides simple testing codes, pretrained models and the network strategy demo.
+
 We propose a single image super-resolution using Hierarchical Back Projection Network (HBPN) to achieve good SR performance with low distortion.
 
 For proposed HBPN model, we claim the following points:
