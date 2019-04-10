@@ -81,3 +81,6 @@ https://drive.google.com/open?id=1esG6op8BePCEYsL43Fx8uXo4kmZGElbX
 Visual Comparison
 
 ![visual compare](/figure/picture.png)
+
+Quantitative Comparison
+![quantitative compare](/figure/table.png)
