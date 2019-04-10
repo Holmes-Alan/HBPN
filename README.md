@@ -27,15 +27,21 @@ The complete architecture is shown as follows,
 ---------------------------------------
 ### s1. Download trained HBPN model from the following link:
 for NTIRE2019 testing dataset, download the model from the following link:
+
 https://drive.google.com/open?id=1AeUiztLk0mrY8VwRtr4BVfnshNIM20xa
+
 for 2x, 4x and 8x general testing dataset, download the model from the following link:
+
 https://drive.google.com/open?id=1vcY7C-O87s9fWPlxNeEkHFCBoS8Z634T
 
 ### s2. Run **HBPN_main.ipynb** on Jupyter Notebook. Modify the directories of files based on your working environment.
 
 Testing images on NTIRE2019 Real Super-Resolution Challenge can be downloaded from the following link:
+
 https://drive.google.com/open?id=1OnVRlOM6mS6Zk2QvXpa9wJ0lfV3CH3-4
+
 General testing dataset (Set5, Set14, BSD100, Urban100 and Manga109) can be downloaded from:
+
 https://github.com/LimBee/NTIRE2017
 
 ## 2. Training
