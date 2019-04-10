@@ -6,7 +6,7 @@ This repo only provides simple testing codes, pretrained models and the network 
 
 We propose a single image super-resolution using Hierarchical Back Projection Network (HBPN) to achieve good SR performance with low distortion.
 
-For proposed HBPN model, we claim the following points:
+# For proposed HBPN model, we claim the following points:
 
 • Enhanced back projection blocks.
 
