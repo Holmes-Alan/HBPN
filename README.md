@@ -76,6 +76,7 @@ $ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root &
 # Experimental results
 All the testing results on Set5, Set14, BSD100, Urban100 and Manga109 can be downloaded from the following link:
 
+https://drive.google.com/open?id=1esG6op8BePCEYsL43Fx8uXo4kmZGElbX
 
 Visual Comparison
 
