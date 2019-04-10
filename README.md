@@ -1,4 +1,4 @@
-# Hierarchical-Back-Projection-Network-for-image-SR
+# HBPN (Hierarchical-Back-Projection-Network-for-image-SR)
 
 By Zhi-Song Liu, Li-Wen Wang, Chu-Tak Li and Wan-Chi Siu
 
