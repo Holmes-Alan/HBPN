@@ -48,8 +48,9 @@ https://github.com/LimBee/NTIRE2017
 ---------------------------
 ### s1. Download the training images from DIV2K and Flickr.
     
-       https://data.vision.ee.ethz.ch/cvl/DIV2K/
-       https://github.com/LimBee/NTIRE2017
+https://data.vision.ee.ethz.ch/cvl/DIV2K/
+
+https://github.com/LimBee/NTIRE2017
    
 ### s2. Generate training/testing files 
 Find data generation code in `Matlab` and run **patch_collection.m** to generate training/testing HDF5 files and put them in `Data` folder.  
