@@ -88,9 +88,12 @@ Testing results on NITRE2019 RealSR can be downloaded from the following link:
 
 https://drive.google.com/open?id=1ASK7U3XU8zi6W5wbW8osZwgJ9jE04r1C
 
-## Visual Comparison
+## Partial image visual comparison
 
 ![visual compare](/figure/picture.png)
+
+## Complete image visual comparison
+
 
 ## Quantitative Comparison
 ![quantitative compare](/figure/table.png)
