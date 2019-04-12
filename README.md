@@ -93,7 +93,11 @@ https://drive.google.com/open?id=1ASK7U3XU8zi6W5wbW8osZwgJ9jE04r1C
 ![visual compare](/figure/picture.png)
 
 ## Complete image visual comparison
+# img_031.png in Urban100 dataset
+![Urban100 visual compare](/figure/Urban_compare.png)
 
+# 302008.png in BSD100 dataset
+![BSD100 visual compare](/figure/BSD_compare.png)
 
 ## Quantitative Comparison
 ![quantitative compare](/figure/table.png)
