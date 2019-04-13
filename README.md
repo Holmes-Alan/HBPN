@@ -1,6 +1,6 @@
 # HBPN (Hierarchical-Back-Projection-Network-for-image-SR)
 
-By Zhi-Song Liu, Li-Wen Wang, Chu-Tak Li and Wan-Chi Siu
+
 
 This repo only provides simple testing codes, pretrained models and the network strategy demo.
 
