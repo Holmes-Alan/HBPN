@@ -2,20 +2,6 @@
 
 By Zhi-Song, Li-Wen Wang and Chu-Tak Li
 
-## BibTex
-@InProceedings{CVPR2019,
-
-  title = {Hierarchical Back Projection Network for image SR},
-  
-  author = {Zhi-Song Liu, Li-Wen Wang, Chu-Tak Li and Wan-Chi Siu},
-  
-  booktitle = {IEEe Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-  
-  month = {June}
-  
-  date = {2019},
-}
-
 This repo only provides simple testing codes, pretrained models and the network strategy demo.
 
 We propose a single image super-resolution using Hierarchical Back Projection Network (HBPN) to achieve good SR performance with low distortion.
