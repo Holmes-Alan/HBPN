@@ -10,7 +10,7 @@ We propose a single image super-resolution using Hierarchical Back Projection Ne
 
         @InProceedings{Liu2019hbpn,
             author = {Liu, Zhi-Song and Wang, Li-Wen and Li, Chu-Tak and Siu, Wan-Chi},
-            title = {Hierarchical Back Projection Network for Image uper-Resolution},
+            title = {Hierarchical Back Projection Network for Image Super-Resolution},
             booktitle = {The Conference on Computer Vision and Pattern Recognition Workshop(CVPRW)},
             month = {June},
             year = {2019}
