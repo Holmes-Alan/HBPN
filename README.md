@@ -4,7 +4,7 @@ By Zhi-Song, Li-Wen Wang and Chu-Tak Li
 
 This repo only provides simple testing codes, pretrained models and the network strategy demo.
 
-We propose a single image super-resolution using Hierarchical Back Projection Network (HBPN) to achieve good SR performance with low distortion.
+We propose a single image super-resolution using Hierarchical Back Projection Network (HBPN) to achieve good SR performance with low distortion.You can check the paper ![PDF](https://arxiv.org/abs/1906.06874)
 
 # BibTex
 
