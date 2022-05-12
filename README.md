@@ -1,5 +1,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-back-projection-network-for/image-super-resolution-on-urban100-4x)](https://paperswithcode.com/sota/image-super-resolution-on-urban100-4x?p=hierarchical-back-projection-network-for)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-back-projection-network-for/image-super-resolution-on-bsd100-8x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-bsd100-8x-upscaling?p=hierarchical-back-projection-network-for)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-back-projection-network-for/image-super-resolution-on-manga109-2x)](https://paperswithcode.com/sota/image-super-resolution-on-manga109-2x?p=hierarchical-back-projection-network-for)
 
 # HBPN (Hierarchical-Back-Projection-Network-for-image-SR)
